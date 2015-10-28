@@ -234,7 +234,7 @@ function InitPxVideo(options) {
 			'</div>' +
 		'</div>' +
 		'<div>' +
-			'<progress class="px-video-progress" max="100" value="0"><span>0</span>% played</progress>' +
+			'<progress class="px-video-progress" max="100" value="0" tabindex="0"><span>0</span>% played</progress>' +
 		'</div>';
 
 	// Adjust layout per width of video - container
